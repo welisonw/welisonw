@@ -16,11 +16,8 @@ I graduated in Law School, and I was a lawyer for 7 years. My desire for innovat
 [![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind_CSS-24AACE?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://github.com/welisonw)
 [![JavaScript Badge](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F5D000)](https://github.com/welisonw)
 [![React Badge](https://img.shields.io/badge/react-1B1D23.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://github.com/welisonw)
-[![Vite Badge](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)](https://github.com/welisonw)
-[![Next.js Badge](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://github.com/welisonw)
 [![Git Badge](https://img.shields.io/badge/git%20-E43825.svg?&style=for-the-badge&logo=git&logoColor=white)](https://github.com/welisonw)
 [![Github Badge](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/welisonw)
-[![Node.js Badge](https://img.shields.io/badge/node.js-83BB25?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/welisonw)
 
 ## 📫 Contact me
 
