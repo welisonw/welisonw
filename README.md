@@ -15,6 +15,7 @@ I graduated in Law School, and I was a lawyer for 7 years. My desire for innovat
 [![CSS3 Badge](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)](https://github.com/welisonw)
 [![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind_CSS-24AACE?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://github.com/welisonw)
 [![JavaScript Badge](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F5D000)](https://github.com/welisonw)
+[![TypeScript Badge](https://img.shields.io/badge/typescript-2679c2.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/welisonw)
 [![React Badge](https://img.shields.io/badge/react-1B1D23.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://github.com/welisonw)
 [![Git Badge](https://img.shields.io/badge/git%20-E43825.svg?&style=for-the-badge&logo=git&logoColor=white)](https://github.com/welisonw)
 [![Github Badge](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/welisonw)
