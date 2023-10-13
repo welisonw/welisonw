@@ -7,7 +7,6 @@ I graduated in Law School, and I was a lawyer for 7 years. My desire for innovat
 - 🌱 I’m currently studying TypeScript, React and Next.js.
 - 🚀 Student in B7Web, Origamid, Rocketseat and Youtube.
 - 🤝 I’m looking forward to applying my experience and knowledge to new challenges, with opportunities to continue learning.
-- 🏔️ Challenges are what make life interesting and overcoming them is what makes life meaningful.
 
 ## 🛠️ Technologies
 
